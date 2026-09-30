@@ -9,8 +9,8 @@ To gain access of pre-release version of app, register your email [here](https:/
 ## Contributing
 
 If you wish to contribute a change to any of the existing feature or add new in this repo,
-please review our [contribution guide](https://github.com/TheAlphamerc/flutter_twitter_clone/blob/master/CONTRIBUTING.md),
-and send a [pull request](https://github.com/TheAlphamerc/flutter_twitter_clone/pulls). I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
+please review our [contribution guide](https://github.com/ramonaoldf/flutter_twitter_clone/blob/master/CONTRIBUTING.md),
+and send a [pull request](https://github.com/ramonaoldf/flutter_twitter_clone/pulls). I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
 
 ## Created & Maintained By
 
